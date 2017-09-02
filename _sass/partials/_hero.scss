@@ -18,7 +18,19 @@
             margin-bottom: 15px;
         }
         .btn {
-            margin: 0 3px;
+          height: 38px;
+          color: #272727 !important;
+          background: #fff !important;
+          font-weight: 400 !important;
+        }
+        .btn:hover {
+          height: 38px;
+          color: #272727 !important;
+          background: #fff !important;
+          font-weight: 400 !important;
+        }
+        h1{
+          font-weight: bold;
         }
     }
 }
