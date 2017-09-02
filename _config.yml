@@ -1,7 +1,7 @@
 # Plugins
 gems:
 - jekyll-sitemap
-safe: false
+safe: trie
 
 # Build Settings
 markdown: kramdown
@@ -13,8 +13,8 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "HackSlash"
 email: "devfest@gdg.org.ua"
 description: "Hackslash is a community to bring all aspiring developer in JECRC together."
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+baseurl: "/"
+url: "https://hackslashjecrc.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdg-x.github.io"
