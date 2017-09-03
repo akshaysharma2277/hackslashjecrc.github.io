@@ -31,9 +31,9 @@ organizerLink: "http://lviv.gdg.org.ua/"
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
 twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/logo.png"
+socialImageSrcTwitter: "/img/seo/logo.png"
+socialImageSrcFacebook: "/img/seo/logo.png"
 
 # Documents
 c4pUrl: "https://bit.ly/dfua-c4p"
@@ -67,8 +67,8 @@ heroButtons:
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Open-Source", image: "open-source.jpg", text: "Open source software is software with source code that anyone can inspect, modify, and enhance." }
- - {title: "Competitive", image: "competitive.jpg", text: "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers."}
+ - {title: "Open-Source", image: "open-source.png", text: "Open source software is software with source code that anyone can inspect, modify, and enhance." }
+ - {title: "Competitive", image: "competitive.png", text: "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers."}
  - {title: "Share-Ideas", image: "ideas.jpg", text: "Knowledge always multiply by sharing. We share ideas and concepts about different programming languages so that you learn something new everytime you give us a visit." }
 
 # Statistic Block
