@@ -69,7 +69,7 @@ aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Open-Source", image: "open-source.jpg", text: "Open source software is software with source code that anyone can inspect, modify, and enhance." }
  - {title: "Competitive", image: "competitive.jpg", text: "Competitive programming is a mind sport usually held over the Internet or a local network, involving participants trying to program according to provided specifications. Contestants are referred to as sport programmers."}
- - {title: "Share-Ideas", image: "ideas.jpg", text: "knowledge always multiply by sharing. We share ideas and concepts about different programming languages so that you learn something new everytime you give us a visit." }
+ - {title: "Share-Ideas", image: "ideas.jpg", text: "Knowledge always multiply by sharing. We share ideas and concepts about different programming languages so that you learn something new everytime you give us a visit." }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
